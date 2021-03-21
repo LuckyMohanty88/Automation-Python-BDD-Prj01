@@ -1,0 +1,38 @@
+<testsuite name="NHS.For NHS" tests="1" errors="0" failures="0" skipped="0" time="60.420208" timestamp="2021-03-21T16:55:13.960134" hostname="Masud"><testcase classname="NHS.For NHS" name="NHS servey -- @1.1 " status="passed" time="60.420208"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario Outline: NHS servey -- @1.1 
+    Given I am on NHS Help page. ... passed in 4.002s
+    And I click start ... passed in 3.736s
+    And I select "ENGLAND" as my living Country ... passed in 3.049s
+    And I click Next ... passed in 3.572s
+    And I Select "Yes" for GP practice ... passed in 0.051s
+    And I click Next ... passed in 3.999s
+    And I input my birth date ... passed in 0.180s
+    And I click Next ... passed in 3.565s
+    And I select "Yes" for live with partner ... passed in 0.073s
+    And I click Next ... passed in 3.577s
+    And I select "No" for my partner credit ... passed in 0.062s
+    And I click Next ... passed in 4.000s
+    And I select "No" for pragnant status ... passed in 0.068s
+    And I click Next ... passed in 3.579s
+    And I select "No" for my injury status ... passed in 0.060s
+    And I click Next ... passed in 3.564s
+    And I select "No" for my diabetes status ... passed in 0.050s
+    And I click Next ... passed in 3.605s
+    And I select "No" for my affected status ... passed in 0.049s
+    And I click Next ... passed in 3.596s
+    And I select "No" for my glaucoma stutus ... passed in 0.048s
+    And I click Next ... passed in 3.970s
+    And I select "Yes" for my partner live. ... passed in 0.069s
+    And I click Next ... passed in 3.570s
+    And I select "No" for home care from local council ... passed in 0.058s
+    And I click Next ... passed in 3.569s
+    And I select "No" for saving investment. ... passed in 0.061s
+    And I click Next ... passed in 4.175s
+    And I save the screenshot for the result option page. ... passed in 0.464s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
